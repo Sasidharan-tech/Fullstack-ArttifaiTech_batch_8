@@ -10,7 +10,6 @@ A full-stack Todo application with a React + TailwindCSS frontend and an Express
 todo-backend/    # Node.js/Express/MongoDB backend
 todo-frontend/   # React/TailwindCSS frontend (Vite)
 ```
-
 ---
 
 ## Backend (`todo-backend`)
