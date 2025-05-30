@@ -90,7 +90,8 @@ todo-frontend/   # React/TailwindCSS frontend (Vite)
 ## Screenshots
 ![Screenshot 00](https://github.com/user-attachments/assets/adc24148-9d63-47c4-9eaa-5b7b3638a0c9)
 
-![Screenshot1](https://github.com/user-attachments/assets/88a7e3c4-55ce-4726-8728-1e1322f1d9d4)
+![Screenshot (18)](https://github.com/user-attachments/assets/0bd0c4c8-235e-4c91-bc90-7556200544b5)
+
 
 ![Screenshot 2](https://github.com/user-attachments/assets/74c97d52-540c-40f5-a8cb-87ed0b823d42)
 
